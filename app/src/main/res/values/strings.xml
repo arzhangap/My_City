@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My City App</string>
+    <string name="detail_fragment_label">Place Info</string>
+    <string name="list_fragment_label">Places</string>
+    <string name="back_button">Back</string>
+    <string name="selection">Selection\n</string>
+    <string name="place_list">Place List</string>
+    <string name="detail">Detail</string>
+
+
+</resources>
